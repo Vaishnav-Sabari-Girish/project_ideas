@@ -22,3 +22,4 @@ C, Rust, Zephyr, Embedded Rust
 References: 
 1. <https://github.com/tsoding/musializer>
 2. <https://github.com/orhun/tuitar>
+3. <https://github.com/karlstav/cava>

@@ -1,4 +1,4 @@
-# Music VIsualizer (GUI + TUI + Embedded)
+# Music Visualizer (GUI + TUI + Embedded)
 
 ## 1. Project Base Idea
 
